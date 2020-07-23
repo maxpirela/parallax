@@ -1,5 +1,7 @@
 
-
+html {
+  scroll-behavior: smooth;
+}
  ul side-nav{
    color:white
  }
